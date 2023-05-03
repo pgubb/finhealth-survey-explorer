@@ -1,0 +1,136 @@
+,,,,,,,,
+Category,N/A,,,,,,,
+Priority,N/A,,,,,,,
+,Resilience. (Ultimate goal stated in the National Financial Literacy Strategy),,,,,,,
+,1. Comments/observations on target outcome,,A focused approach to resilience asks only about ability to weather financial setbacks or shocks. A broader approach considers resilience as synonymous with being in a generally healthy financial condition. Both types of questions are shown here.  ,,,,,
+,2. Assessment of coverage of target outcome internationally,,😐,"Observations: Two classic types of question are often used to guage ability to weather shocks: a) ability to raise a lump sum to meet an emergency and b) length of time consumption can be maintained in the face of income loss. Variations include size of lump sum, sources for obtaining the money, time frames, and levels of income loss. Financial health or well-being is typically measured through a module of 5-10 questions that cover short term financial status, ability to withstand shocks, ability to reach long term goals and confidence in one's finances.",,,,
+,3. Best examples,,1,"If you lost your main source of household income, how long could your household continue to cover living expenses, without having to borrow any money or ask for help from friends or family?  Less than a week; between one week and a month; 1-3 months; 3-6 months; 6 months or longer; Don’t know; Refused",,,,
+,,,2,"Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?
+Put it on my credit card and pay it off in full at the next statement
+Put it on my credit card and pay it off over time
+With the money currently in my checking/savings account or with cash 
+Using money from a bank loan or line of credit 
+By borrowing from a friend or family member 
+Using a payday loan, deposit advance, or overdraft
+By selling something 
+I wouldn’t be able to pay for the expense",,,,
+,,,3,"Overall, which of the following best describes how well you are managing financially these days?  Living comfortably; Doing okay; Just getting by; Finding it difficult to get by",,,,
+,,,4,"Which of the following statements best describes how your houehold has paid its bill over the last 12 months? pay all our bills on time, nearly all, most, some, very few",,,,
+,,,5,"Thinking about your household's longer-term financial goals, such as saving for a vacation, starting a business, buying or paying off a home, saving up for education, putting money away for retirement, or making retirement funds last, how confident are you that your household is currently doing what is needed to meet your longer term goals? very confident, moderately, somewhat, slightly, not at all",,,,
+,4. Recommendations/ Proposed Indicators,,"Ask stakeholders to monitor the overall resilience of consumers using questions about both ability to weather shocks and overall confidence, as shown.  ",,,,,
+,5. All documented measures,,Total,52,,,,
+,Flag,Source,Alignment to target,Sector,Objective vs. Subjective,Relates to consumer building block,Indicator/Question,Topic and Comments
+,,ANZ Bank: Adult financial wellbeing survey (Australia),Strong,General,Mixed,,"If tomorrow you had to meet an unexpected expense that is equivalent to a month’s income for your household, how much of it would you be able to cover from money you have available either in cash or in your bank account?",Raising a lump sum
+,,ANZ Bank: Adult financial wellbeing survey (Australia),Strong,General,Mixed,,"Follow on to previous question: Would you need to borrow, overdraw your account or use a credit card to meet an unexpected expense equivalent to a month’s income?",Raising a lump sum
+,,ANZ Bank: Adult financial wellbeing survey (Australia),Strong,General,Mixed,,"If your income fell by a third, for how long could you meet all your expenses without needing to borrow?",Maintaining consumption after income loss
+,,ANZ Bank: Adult financial wellbeing survey (Australia),Strong,General,More objective,,"Thinking about the total income of your household, approximately how many month’s income do you have in savings?",Savings buffer
+,,Money and Pensions Service: Financial Capability Outcomes Framework for Adults Question Bank (United Kingdom),Strong,General,Mixed,,"Which, if any of the following would you do to pay a bill of £300? If you think you would do more than one, please select the main thing you would do, that is the one you would get the most money from.
+1. pay it with my/our own money, without dipping into savings or cutting back on essentials
+2. pay it with my/our own money, without dipping into savings but I/we would have to cut back on essentials
+3. dip into savings
+4. use a form of credit (e.g. credit card, take out a loan or use an authorised overdraft facility)
+5. go overdrawn without authorisation
+6. get the money from friends or family as gift or loan
+7. sell personal/household item(s) 
+8. couldn’t pay this bill
+9. Don’t know
+10. Prefer not to say",Raising a lump sum
+,⭐️,Money and Pensions Service: Financial Capability Outcomes Framework for Adults Question Bank (United Kingdom),Strong,General,Mixed,,"If you lost your main source of household income, how long could your household continue to cover living expenses, without having to borrow any money or ask for help from friends or family? Less than a week; between one week and a month; 1-3 months; 3-6 months; 6 months or longer; Don’t know; Refused",Maintaining consumption after income loss
+,,Money and Pensions Service: Financial Capability Outcomes Framework for Adults Question Bank (United Kingdom),Moderate,General,Mixed,,"Imagine to pay an unexpected bill within the next seven days from today. What is the biggest bill could pay, either from money you already have, or money you could easily borrow in a way that you consider affordable? If you don’t know the exact amount your best guess is fine. 
+1. None – I couldn’t pay an unexpected bill 2. £50 3. £100 4. £300 5. £500 6. £1,000 7. £2,500 8. £5,000 9. £10,000 10. Don’t know 11. Prefer not to say",Raising a lump sum
+,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Moderate,General,More objective,,"Have you set aside emergency or rainy day funds that would cover your expenses for 3 months in case of sickness, job loss, economic downturn, or other emergencies?",Savings buffer
+,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,General,Mixed,,"If you were to lose your main source of income (for example job or government benefits), could you cover your expenses for 3 months by borrowing money, using savings, or selling assets?
+
+",Maintaining consumption after income loss
+,⭐️,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,General,Mixed,,"Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would youpay for this expense?
+Put it on my credit card and pay it off in full at the next statement
+Put it on my credit card and pay it off over time
+With the money currently in my checking/savings account or with cash -
+Using money from a bank loan or line of credit - 
+By borrowing from a friend or family member -
+Using a payday loan, deposit advance, or overdraft
+By selling something 
+I wouldn’t be able to pay for the expense""                                ",Raising a lump sum
+,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Moderate,General,Mixed,,"How would a $400 emergency expense that you had to pay impact your ability to pay your
+other bills this month?
+Could not pay some bills
+Would still be able to pay all bills",Impact of financial emergency
+,⭐️,,Strong,General,More subjective,,"Overall, which of the following best describes how well you are managing financially these days?  Living comfortably; Doing okay; Just getting by; Finding it difficult to get by",Overall financial condition (considered a key bellweather question by Federal Reserve)
+,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,General,More subjective,,"Compared to 12 months ago, would you say that you (and your family) are better off, the same, or worse off financially?
+
+Much worse off; Somewhat worse off; About the same; Somewhat better off; Much better off",Overall financial condition 
+,,Financial Health Network: Pulse (United States),Strong,General,Mixed,,"At your current level of spending, how long could you and your household afford to cover expenses, if you had to live on only the money you have readily available, without withdrawing money from retirement accounts or borrowing?
+
+6 months or more; 
+3-5 months; 
+1-2 months; 
+1-3 weeks; 
+Less than 1 week",Maintaining consumption after income loss (Part of FHN financial health score)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How well does this statement describe you or your situation? ""I could handle a major unexpected expense""
+Describes me completely; very well; somewhat; very little; not at all",Weathering financial shock. (Part of CFPB financial wellbeing index and CBA reported financial wellbeing scale)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How well does this statement describe you or your situation? ""I am securing my financial future""
+Describes me completely; very well; somewhat; very little; not at all",Long term financial stability (Part of CFPB financial wellbeing index and CBA reported financial wellbeing scale)
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More objective,,"If, tomorrow, you had to meet an unexpected expense that is equivalent to a month’s income for your household, how much of it would you be able to cover from money you have available either in cash or in your bank account?
+All of it; Some of it; None of it; Don't know",Raising a lump sum
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More objective,,"Would you need to borrow, overdraw your account or use a credit card to meet an unexpected expense of a month's income?
+
+Yes to cover all of it; Yes to cover some of it; No; Don't know",Raising a lump sum
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,Mixed,,"If your income fell by a third, for how many months could you meet all your expenses without needing to borrow?
+More than 12 months; Between 6-12 months; Between 3-6 months; Between 1-3 months; 0-1 months; Don't know",Maintaining consumption after income loss
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More objective,,"Thinking about the total income of your household approximately how many month's income do you have in savings?
+More than 12 months; Between 6-12 months; Between 3-6 months; Between 1-3 months; 0-1 months; Don't know",Savings buffer
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,"How would you describe your household’s/your current financial situation? 
+1 Very Bad; 2; 3; 4; 5 Very Good",Overall financial condition
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More subjective,,"How confident are you about your household’s/your financial situation in the next 12 months?
+1 Not at all confident; 2; 3; 4; 5 Very Confident",Overall financial condition
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,"How much control of the household’s/ your finances do you feel you have?
+1 Very little/no control; 2 Little control; 3 Neither; 4 Somewhat in control; 5 Totally in control",Feeling in control
+,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,General,More objective,,"And if you, personally, faced a major expense today – equivalent to your own monthly income – would you be able to pay it without borrowing the money or asking family or friends to help? [Add if necessary, if you do not currently have an income, please think about an unexpected expense equivalent to the amount of money you typically spend in a month.]
+
+Yes; No; Don't Know; Not applicable (I don't have any personal income); Refused",Raising a lump sum
+,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,General,Mixed,,"If you lost your main source of income, how long could you continue to cover your living expenses, without borrowing any money or moving house?	
+
+Less than a week; 
+At least a week, but not one month; 
+At least one month, but not three months; 
+At least three months, but not six months; 
+Six months or more; 
+Don't know; 
+Refused",Maintaining consumption after income loss
+,,European Union: Survey of Income and Living Conditions (Multiple countries),Moderate,General,More subjective,,"Can your household afford an unexpected required expense (amount to be filled) and pay through its own resources?
+
+Yes, No",Raising a lump sum
+,,MetLife Foundation: Global Financial Health Study (Multiple countries),Strong,General,Mixed,,"Suppose you lost your income and had to survive only on your savings or things you could sell. Would you be able to cover ALL of your basic needs, like food, housing, and transportation for 1-3 months, 4-6 months, or more than 6 months?",Maintaining consumption after income loss
+,,MetLife Foundation: Global Financial Health Study (Multiple countries),Moderate,General,More subjective,,"If you had a financial emergency today, do you think you would be able to pay for it?
+Yes, No",Raising a lump sum
+,,MetLife Foundation: Global Financial Health Study (Multiple countries),Moderate,General,More subjective,,"Do you think you can overcome any financial problem that you might face?  
+Yes, No",Confidence
+,,World Bank: Global Findex (Multiple countries),Strong,General,Mixed,,"Imagine that you have an emergency and you need to pay [insert 1/20 of GNI per capita in local currency units]. What would be the MAIN source of money that you would use to come up with [insert 1/20 of GNI per capita in local currency units] within the NEXT 30 DAYS?
+Savings; 
+Family and friends; 
+Money from working; 
+Borrowing from a bank, employer, or private lender; 
+Selling assets; 
+Some other source",Raising a lump sum
+,,World Bank: Global Findex (Multiple countries),Strong,General,Mixed,,"How difficult would it be for you to come up with [insert 1/20 of GNI per capita in local currency] within the NEXT 30 DAYS? Would it be very difficult, somewhat difficult or not difficult at all?",Raising a lump sum
+,,World Bank: Global Findex (Multiple countries),Strong,General,Mixed,,"How difficult would it be for you to come up with [insert 1/20 of GNI per capita in local currency] within the NEXT 7 DAYS? Would it be very difficult, somewhat difficult or not difficult at all?",Raising a lump sum
+,,World Bank: Global Findex (Multiple countries),Moderate,General,More subjective,,"How worried are you right now about not being able to pay for medical costs in case of a serious illness or accident?  very worried, somewhat worried, or not worried at all at the present time ",Paying for medical emergency
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How much do you agree with the following statement? ""I can enjoy life because of the way I am managing my money""? completely, very well, very little, not at all",Overall financial condition (CFPB and CBA financial wellbeing scales)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How often does the following statement apply to you? ""My finances control my life."" always, often, sometimes, rarely, never",Overall financial condition (CFPB and CBA financial wellbeing scales)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,Mixed,,"How often does the following statement apply to you? ""Giving a gift for a wedding, birthday or other occasion would put a strain on my finances for the month."" always, often, sometimes, rarely, never",Affordability of small extra expenses (CFPB and CBA financial wellbeing scales)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How well does this statement describe you or your situation? ""Because of my money situation, I feel like I will never have the things I want in life."" completely, very well, somewhat, very little, not at all",Overall financial condition (CFPB financial wellbeing scale)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More objective,,"How often does this statement apply to you? ""I have money left over at the end of the month."" always, often, sometime, rarely, never",Short term finances (CFPB and CBA financial wellbeing scales)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Strong,General,More subjective,,"How well does this statement describe you or your situation? ""I am just getting by financially."" completely, very well, somewhat, very little, not at all",Overall financial condition (CFPB financial wellbeing scale)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How well does this statement describe you or your situation? ""I am concerned that the money I have or will save won't last."" completely, very well, somewhat, very little, not at all",Long term financial stability (CFPB financial wellbeing scale)
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How often does the following statement apply to you? ""I am behind with my finances."" always, often, sometimes, rarely, never",Short term finances (Part of CFPB financial wellbeing scale)
+,,Commonwealth Bank of Australia: Financial Wellbeing Scales (Australia),Strong,General,More subjective,,"""I feel on top of my day-to-day finances"" agree strongly, agree, neither agree nor disagree, disagree strongly",Short term finances (CBA financial wellbeing scale)
+,,Commonwealth Bank of Australia: Financial Wellbeing Scales (Australia),Moderate,General,Mixed,,"""I am confident with my current levels of spending relative to the funds I have coming in."" agree stronly, agree, neither agree nor disagree, disagree, disagree strongly",Income and expense balance (CBA financial wellbeing scale)
+,,Commonwealth Bank of Australia: Financial Wellbeing Scales (Australia),Strong,General,More subjective,,"""I am on track to have enough money to provide for my financial needs in the future."" agree stronly, agree, neither agree nor disagree, disagree, disagree strongly",Long term finances (CBA financial wellbeing scale)
+,,Commonwealth Bank of Australia: Financial Wellbeing Scales (Australia),Strong,General,More subjective,,"In the last 12 months, how difficult was it for you to meet your necessary cost of living expenses, like housing, electricity, water, health care, food, clothing or transport? very easy, easy, neither easy nor difficult, difficult",Meeting expenses (CBA financial wellbeing scale)
+,,Financial Health Network: Pulse Survey (United States),Strong,General,More objective,,"Which of the following statements best describes how your household's total spending compared to total income over the last 12 months? Sending was much less than income, a little less, about equal, a little more, much more",Income and expense balance (FHN financial health scale)
+,⭐️,Financial Health Network: Pulse Survey (United States),Strong,General,More objective,,"Which of the following statement best describes how your houehold has paid its bill over the last 12 months? pay all our bills on time, nearly all, most, some, very few",Keeping up with bills (FHN financial health scale)
+,⭐️,Financial Health Network: Pulse Survey (United States),Strong,General,More subjective,,"Thinking about your household's longer-term financial goals, such as saving for a vacation, starting a business, buying or paying off a home, saving up for education, putting money away for retirement, or making retirement funds last, how confident are you that your household is currently doing what is needed to meet your longer term goals? very confident, moderately, somewhat, slightly, not at all",Long term goals (FHN financial health scale)
+,,Financial Health Network: Pulse Survey (United States),Strong,Credit,Mixed,,"Thinking about all of your household's current debt including mortgages, bank loans, student loans, money owed to people, medical denbt, past-due bills and credit card balances that are carried over from prior months... As of today, which of the following statements describes how manageable your household debyt is? Do not have any debt, have a manageable amount of debt, have a bit more debt than is manageable, have far more debt than is manageable",Debt burden (FHN financial health scale)
+,,Financial Health Network: Pulse Survey (United States),Moderate,Credit,Mixed,,"How would you rate your credit score? (Your credit score is a number that tells lenders how risky or safe you are as a borrower.) Excellent, very good, good, fair, poor/don't know",Credit score (FHN financial health scale)
+,,Financial Health Network: Pulse Survey (United States),Moderate,Insurance,Mixed,,"Thinking about all of the types of insurance you and others in your household currently might have, including health insurance, vehicle insurance, home or rental insurance, life insurance, and disability insurance...How confident are you that those insurance policies will provide enough support in case of an emergency? Very confident, moderately, somewhat, slightly, not at all, no one in my household has any insurance",Insurance (FHN financial health scale)
+,,Financial Health Network: Pulse Survey (United States),Moderate,General,Mixed,,"To what extent do you agree or disagree with the following statement? ""My household plans ahead financially"" Agree strongly, agree somewhat, neither agree nor disagree, disagree somewhat, disagree strongly",Financial planning (FHN financial health scale)

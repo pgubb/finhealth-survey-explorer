@@ -1,0 +1,72 @@
+,,,,,,,,,,
+,Category,Consumer Building Blocks,,,,,,,,
+,,,,,,,,,,
+,CB2,"Just-in-time knowledge and confidence. The aim of this building block is to enable more Canadians to have the information they need at the right time, along with the understanding, skills and confidence to use that information to achieve their financial goals.",,,,,,,,
+,,1. Comments/observations on target outcome,,"The emphasis of this CBB per the stratey is on the timing of information delivery near or at the point of a decision: ""Learning about a financial product or service at the right time can help people make better decisions. For example, it is best to help consumers learn about different types of mortgages, interest rates, terms, amortization, and prepayment penalties when they are considering buying a house. Similarly, it is useful to help consumers understand interest rates, compound interest and repayment times for credit card balances when they are choosing between different credit cards (such as between a high-interest rewards card or a low-interest no-rewards card). Research shows that consumers are most likely to be receptive to information when it is relevant to them, that is, just-in-time, and at the point of decision. Research also shows that just-in-time is when information is most likely to drive decisions that lead to good outcomes."" This building block overlaps with CB1 andd TO2.1",,,,,,
+,,2. Assessment of coverage of target outcome internationally,,😐,"Observations: 
+The questions we identified were either aimed at examining the use of informaiton at the time of product purchase or the tracking of personal financial information in managing budgets and planning.",,,,,
+,,3. Best examples,,1,"When you took out this loan, which of the following best describes how you read the credit agreement and pre-contract information? Read it all carefully, just read the important bits, looked at it briefly, didn't read any; didn't get info",,,,,
+,,,,2,"In selecting your [product], which of these did you do before making a decision? Compare products from different providers; compare various products from one provider; did not consider other options; searched other providers but they had no options to consider",,,,,
+,,,,3,"When your household receives/ you receive your regular income, how often do you plan how it will be used?
+1. Very often/always; 2. Often; 3. Sometimes; 4. Seldom/not very often; 5. Never; 6. DK",,,,,
+,,4. Recommendations/ Proposed Indicators,,"The most relevant questions dig into the decisionmaking process, by product -- product information provided and used, confidence in the decision, and satisfaction with the outcome. A possible second line of inquiry could involve the use of a person's own financial information for decisions, for example, a question on the use of tool that categorizes spending. ",,,,,,
+,,5. All documented measures,,Total,24,,,,,
+,Item,Flag,Source,Alignment to target,Sector,Objective vs. Subjective,Relates to consumer building block,Type of data ,Indicator/Question,Topic
+,CB2.1,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,Pensions,More subjective,,Consumer survey,"Overall, on a scale of 1 to 5 where 1 is very confident, and 5 is not at all confident; how confident are you that you have done a good job of making financial plans for your retirement?
+
+[1 = Very confident, 5 = not at all confident]",Financial planning: Retirement
+,CB2.1,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More objective,,Consumer survey,"When your household receives/ you receive your regular income, how often do you plan how it will be used?
+1. Very often/always
+2. Often
+3. Sometimes
+4. Seldom/not very often
+5. Never 
+6. DK",Financial planning
+,CB2.1,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,Consumer survey,"Do you plan exactly how you will use the income or only make a rough plan?
+1. Exactly
+2. Rough plan
+3. DK",Financial planning
+,CB2.1,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,Mixed,B3. Expenses,Consumer survey,"How often do you keep to the plan you make for using your income?
+Very often
+Often
+Sometimes
+Seldom
+Never
+",Financial planning
+,CB2.1,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More objective,B3. Expenses,Consumer survey,"Do you know how much money you currently have available in your bank account for day-to-day spending?
+
+1. Yes, exactly
+2. Yes, approximately
+3. DK
+",Financial planning
+,CB2.1,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More objective,,Consumer survey,"How often do you normally check how much money is in your account?
+
+At least once a week
+At least once a fortnigh
+At least once a month
+Less than once a month
+Never",Financial planning
+,CB2.1,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More objective,,Consumer survey,"Which of these statements best describes how you check the on-line or paper statement for this account?
+
+1. I don’t usually check
+2. I only check the final balance 
+3. I roughly look through it
+4. I check every item
+5. DK",Financial planning
+,CB2.1,,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Moderate,Credit,More subjective,B2. Knowledge & Confidence,Consumer survey,"Over the last 12 months, with respect to credit products, have you experienced complex fees and charges or product informaton",Understanding financial information 
+,CB2.1,⭐️,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,Credit,More objective,B2. Knowledge & Confidence,Consumer survey,"Before you took your loan, did you compare products from two different providers by looking at the product features or prices?",Information gathering
+,CB2.1,,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,Credit,More subjective,B2. Knowledge & Confidence,Consumer survey,"In consideringyour loan, which factors did you take into account: your income, spouse/partner income, mortgage/rent payment, other regular expenses, other credit commitments, savings, possible employment changes, other changes in circumstances, consequences of missed payment or interest rate increase",Decionmaking criteria
+,CB2.1,,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,Credit,More subjective,B2. Knowledge & Confidence,Consumer survey,"When you took out a loan, how confident were you that you could make the required repayments?",Decisionmaking confidence
+,CB2.1,⭐️,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,Credit,Mixed,B2. Knowledge & Confidence,Consumer survey,"When you took out this [PRODUCT], which of the following best describes how you read the credit agreement and pre-contract information? Read it all carefully, just read the important bits, looked at it briefly, didn't read any; didn't get info",Understanding financial information 
+,CB2.1,⭐️,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,Credit,Mixed,B2. Knowledge & Confidence,Consumer survey,"When you took out [product]: I was given an adequate explanation of the credit product; I was encouraged to ask questions if I didn't understand; I was given clear answers to my questions, I felt I understood the product well, I felt rushed into making a decision",Understanding financial information 
+,CB2.1,,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,General,More subjective,B2. Knowledge & Confidence,Consumer survey,"In general, how well would you say you understand the information you receive about your [product]?",Understanding financial information 
+,CB2.1,,FSD Kenya: Digital Credit Survey (Kenya),Strong,General,Mixed,B2. Knowledge & Confidence,Consumer survey,Have you experienced the following when taking out [product]: You did not fully understand the costs or fees associated with the loan,Understanding financial information 
+,CB2.1,,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,General,More subjective,B2. Knowledge & Confidence,Consumer survey,I don't really understand the products I have taken out and whether I got a 'good deal' or not,Understanding financial information 
+,CB2.1,,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,General,More subjective,B1. SKills,Consumer survey,I don't feel able to shop around for financial products.,Information gathering
+,CB2.1,,Financial Conduct Authority: Financial Lives Survey (United Kingdom),Strong,General,More subjective,B2. Knowledge & Confidence,Consumer survey,How much would you agree or disagree that your [financial service provider] provides clear and understandable information?,Understanding financial information 
+,CB2.1,,New Zealand Retirement Commission: New Zealand Financial Capability Survey 2021 (New Zealand),Strong,General,Mixed,B2. Knowledge & Confidence,Consumer survey,How carefully have you checked the terms and conditions of financial products you have bought? ,Terms and conditions
+,CB2.1,,New Zealand Retirement Commission: New Zealand Financial Capability Survey 2021 (New Zealand),Strong,General,More subjective,B2. Knowledge & Confidence,Consumer survey,Knows enough about [product type] to choose the right one,Decisionmaking confidence
+,CB2.1,,Superintendencia Financiera de Colombia: Financial Capability Survey (Colombia),Strong,General,More objective,B2. Knowledge & Confidence,Consumer survey,"In selecting your [product], which of these did you do before making a decision? Compare products from different providers; compare various products from one provider; did not consider other options; searched other providers but they had no options to consider",Information gathering
+,CB2.1,,ANZ Bank: Adult financial wellbeing survey (Australia),Strong,General,Mixed,B2. Knowledge & Confidence,Consumer survey,"Before you got this <INSERT NAME OF PRODUCT>, did you personally search for information from a range of sources?",Information gathering
+,CB2.1,,ANZ Bank: Adult financial wellbeing survey (Australia),Strong,General,Mixed,B2. Knowledge & Confidence,Consumer survey,"Did you personally consider many alternatives before you decided which <PRODUCT>, to take out or renew?",Information gathering
+,CB2.1,,ANZ Bank: Adult financial wellbeing survey (Australia),Strong,General,Mixed,B2. Knowledge & Confidence,Consumer survey,How carefully did you personally check the applicable fees and other conditions of the <PRODUCT> before you took out or renewed it?,Terms and conditions

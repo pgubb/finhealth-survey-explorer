@@ -1,0 +1,263 @@
+,,,,,,,,,
+,Category,Consumer Building Blocks,,,,,,,
+,,,,,,,,,
+,CB3,Manage Expenses. The aim of this building block is to enable more Canadians to keep up with their bills and credit commitments.,,,,,,,
+,,1. Comments/observations on target outcome,,"This implicitly includes both the behavior that supports expenditure managment, such as budgeting and planning, and the outcome of either keeping up or falling short. Because CBBs 1 and 2 are about skills and behaviors, this CBB can be more focused on outcomes.  The sample questions reflect that approach.",,,,,
+,,2. Assessment of coverage of target outcome internationally,,😀,"Observations: 
+
+Well-covered in many financial health and well-being surveys",,,,
+,,3. Best examples,,1,"How often does this statement apply to you? ""I have money left over at the end of the month""
+Always; Often; Sometimes; Rarely; Never",,,,
+,,,,2,"Are you expecting to be unable to pay or only make a partial payment on each of the following bills this month? Rent or mortgage, Credit card, Water, gas or electric bill, Phone or cable bill, Car payment, Student loan, Other bill",,,,
+,,,,3,"Please indicate how well the following statement describes you: ""I run short of money because I overspend""
+1 [Very well]; 2 [Quite well]; 3 [Not very well]; 4 [Not at all well]; 5 {Don't know]",,,,
+,,,,4,"In the past 12 months, how often have you been unable to pay bills or loan commitments at the final reminder due to lack of money? 1 [Very often]; 2 [Often]; 3 [Sometimes]; 4 [Seldom]; 5 [Never]; 6 [Don't know]",,,,
+,,4. Recommendations/ Proposed Indicators,,Use a suite of questions that range from more objective to more subjective to capture both actual situation and propensity.  General questions on missing payments can be supplemented by questions on specfic types of payments missed and actions taken in such cases.,,,,,
+,,5. All documented measures,,Total,60,,,,
+,Item,Flag,Source,Alignment to target,Sector,Objective vs. Subjective,Relates to consumer building block,Indicator/Question,Topic
+,CB3.1,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Moderate,General,More subjective,,"Overall, which one of the following best describes how well you are managing financially these days?
+
+Finding it difficult to get by; Just getting by; Doing ok; Living comfortably",Subjective evaluation of financail health
+,CB3.2,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,Payments,Mixed,,"Because your income varies, have you [ IF PPMARIT=1, INSERT: and your spouse / IF PPMARIT=6, INSERT: and your partner] struggled to pay your bills in the past 12 months?
+
+Yes, No",Bill payment management
+,CB3.3,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,General,More objective,,"In the past month, would you say that your [IF PPMARIT=1, INSERT: and your spouse's / IF PPMARIT=6, INSERT: and your partner's] total spending was:
+
+Less than your income; The same as your income; More than your income",Income adequacy
+,CB3.4,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Moderate,General,More objective,,"Does anyone living outside of your household (such as a parent, child, other relatives, or friends) provide you with regular financial support? This may include cash or help with rent, groceries, education expenses, student loans, car payments, or other expenses.
+
+Yes, No",Income dependence
+,CB3.5,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Moderate,General,More objective,,"Do you receive each of the following types of financial support from people living outside of your household?
+Help with rent or mortgage
+Help with education expenses or student loans
+Help with car payment
+Help with other bills
+Money for general expenses or anything else",Income dependence
+,CB3.6,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Moderate,General,More objective,,"Who outside of your household provides you with regular financial support or helps you with bill payments? 
+Parent
+My adult child
+Other relatives
+Friends
+Charity, Church or other organization",Income dependence
+,CB3.7,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,Payments,Mixed,,"Which best describes your ability to pay all of your bills in full this month?
+
+Able to pay bills; Can't pay some bills",Bill payment management
+,CB3.8,⭐️,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,Payments,Mixed,,"Are you expecting to be unable to pay or only make a partial payment on each of the following bills this month?
+Rent or mortgage
+Credit card
+Water, gas or electric bill
+Phone or cable bill
+Car payment
+Student loan
+Other bill",Bill payment management
+,CB3.9,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,Payments,More subjective,,"Which of the following bills would you likely skip paying, or make only a partial payment on, if you had a $400 emergency expense that you had to pay?
+Rent or mortgage
+Credit card
+Water, gas or electric bill
+Phone or cable bill
+Car payment
+Student loan
+Other bill",Bill payment management
+,CB3.10,,Federal Reserve Board: Survey of Household and Economic Decisionmaking (United States),Strong,General,Mixed,,"During the past 12 months, was there a time when you needed each of the following, but went without because you couldn't afford it?
+Prescription medicine
+Seeing a doctor or specialist
+Mental health care or counseling
+Dental care
+Follow-up care",Foregone expenses
+,CB3.11,,Financial Health Network: Pulse Survey (United States),Strong,General,Mixed,,"Which of the following statements best describes how your household’s total spending compared to total income, over the last 12 months?
+
+Spending was much less than income; 
+Spending was a little less than income; 
+Spending was about equal to income;
+ Spending was a little more than income; 
+Spending was much more than income",Income adequacy
+,CB3.12,,Financial Health Network: Pulse Survey (United States),Strong,Payments,More objective,,"Which of the following statements best describes how your household has paid its bills over the last 12 months?
+
+Pay all of our bills on time; 
+Pay nearly all of our bills on time; 
+Pay most of our bills on time; 
+Pay some of our bills on time; 
+Pay very few of our bills on time",Bill payment management
+,CB3.13,,Financial Health Network: Pulse Survey (United States),Moderate,Insurance,More subjective,,"Thinking about all of the types of insurance you and others in your household currently might have ... How confident are you that those insurance policies will provide enough support in case of an emergency?
+
+Very confident; Moderately confident; Somewhat confident; Slightly confident; Not at all confident; No insurance",Insurance coverage
+,CB3.14,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How well does this statement describe you or your situation? ""I am just getting by financially""
+
+Describes me completely; Describes me very well; Describes me somewhat; Describes me very little; Does not describe me at all",Subjective evaluation of financail health
+,CB3.15,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Strong,General,More subjective,,"How well does this statement describe you or your situation? ""I am concerned that the money I have or will save won’t last""
+
+Describes me completely; Describes me very well; Describes me somewhat; Describes me very little; Does not describe me at all",Subjective evaluation of financail health
+,CB3.16,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How often does this statement apply to you? ""Giving a gift for a wedding, birthday or other occasion would put a strain on my finance for the month""
+
+Always; Often; Sometimes; Rarely; Never",Discretionary spending
+,CB3.17,⭐️,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Strong,General,More subjective,,"How often does this statement apply to you? ""I have money left over at the end of the month""
+
+Always; Often; Sometimes; Rarely; Never",Cash flow
+,CB3.18,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Strong,General,More subjective,,"How often does this statement apply to you? ""I am behind with my finances""
+
+Always; Often; Sometimes; Rarely; Never",Subjective evaluation of financail health
+,CB3.19,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Weak or not aligned,General,More subjective,,"How well does this statement describe you or your situation? ""I can enjoy life because of the way I’m managing my money""
+
+Describes me completely; Describes me very well; Describes me somewhat; Describes me very little; Does not describe me at all",Subjective evaluation of financail health
+,CB3.20,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,"How have the household’s/ your total expenditures developed over the last 12 months?
+
+Increased substantially; Stayed more or less stable; Decreased substantially; Don't know",Subjective evaluation of financail health
+,CB3.21,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More objective,,"How often does your household/you have any money left over after you have paid for food and other regular expenses?
+
+1 [Very often]; 2 [Often]; 3 [Sometimes]; 4 [Seldom/not very often]; 5 [Never]; 6 [Don't know]",Cash flow
+,CB3.22,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More objective,,"What do you ordinarily do with any money you have left over?
+
+1 [Save it all]; 2 [Save most but spend some]; 3 [Spend most but save some]; 4 [Spend it all]; 5 [Don't know] ",Cash flow
+,CB3.23,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More objective,,"How often does your household/you run short of money for food or other regular expenses?
+
+1 [Very often]; 2 [Often]; 3 [Sometimes]; 4 [Seldom]; 5 [Never]; 6 [Don't know]",Cash flow
+,CB3.24,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More objective,,"Do you do any of these things when you run short of money for food or regular expenses? 
+[Yes, No]
+
+Borrow the money
+Ask family or friends to give you money
+Use savings/ sell something
+Spend less
+Delay paying bills
+Work extra hours
+",Cash flow
+,CB3.25,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,"When your household receives/you receive your regular income, how often do you plan how it will be used?
+
+1 [Very often/always]; 2 [Often]; 3 [Sometimes]; 4 [Seldom/not very often]; 5 [Never]; 6 [Don't know]",Planning and budgeting
+,CB3.26,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,"Do you plan exactly how you will use the income or only make a rough plan?
+
+1 [Exactly]; 2 [Rough plan]; 3 [Don't know] ",Planning and budgeting
+,CB3.27,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,"How often do you keep to the plan you make for using your income?
+
+1 [Very often]; 2 [Often]; 3 [Sometimes]; 4 [Seldom]; 5 [Never]; 6 [Don't know]",Planning and budgeting
+,CB3.28,⭐️,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More subjective,,"Please indicate how well the following statement describes you: ""I run short of money because I overspend""
+
+1 [Very well]; 2 [Quite well]; 3 [Not very well]; 4 [Not at all well]; 5 {Don't know]",Cash flow
+,CB3.29,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More subjective,,"Please indicate how well the following statement describes you: ""I run short of money because I don't plan how I will spend my money""
+
+1 [Very well]; 2 [Quite well]; 3 [Not very well]; 4 [Not at all well]; 5 {Don't know]",Planning and budgeting
+,CB3.30,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More objective,,"Do you know how much money you (USE SINGULAR FORM) spent personally in the last week?
+
+Yes, exactly; Yes, approximately; Don't know",Planning and budgeting
+,CB3.31,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,Banking (Accounts & savings),More objective,,"Do you know how much money you currently have available in your bank account for day-to-day spending?
+
+Yes, exactly; Yes, approximately; Don't know",Planning and budgeting
+,CB3.32,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,Banking (Accounts & savings),More objective,,"How often do you normally check how much money is in your account?
+
+At least once a week; At least once a fortnight; At least once a month; Less than once a month; Never; Don't know",Planning and budgeting
+,CB3.33,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,Banking (Accounts & savings),More objective,,"Which of these statements best describes how you check the on-line or paper statement for this account? CODE ONLY ONE.
+
+I don't usually check; I only check the final balance; I roughly look through it; I check every item; Don't know",Planning and budgeting
+,CB3.34,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,Banking (Accounts & savings),More objective,,"How often you are overdrawn on your bank account?
+
+Every month; Most months; Now and then; Seldom; Never; Don't know",Planning and budgeting
+,CB3.35,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,General,More subjective,,"How often do you personally buy things you don't need even if it leaves you with insufficient money for food and other regular expenses?
+
+1 [Very often]; 2 [Often]; 3 [Sometimes]; 4 [Seldom]; 5 [Never]; 6 [Don't know]",Discretionary spending
+,CB3.36,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,Payments,More subjective,,"Which one of the following statements best describes how well you are meeting your bills and credit commitments at the moment?
+
+Without any difficulty; It is a struggle from time to time; It is a constant struggle; Don't have any bills or credit commitments; Don't know",Bill payment management
+,CB3.37,⭐️,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,Payments,More objective,,"In the past 12 months, how often have you been unable to pay bills or loan commitments at the final reminder due to lack of money?
+
+1 [Very often]; 2 [Often]; 3 [Sometimes]; 4 [Seldom]; 5 [Never]; 6 [Don't know]",Bill payment management
+,CB3.38,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,General,More subjective,,"Please indicate how well the following statements describe you personally:
+1 [Fits very well]; 2 [Fits fairly well]; 3 [Fits neither well nor badly]; 4 [Does not fit well]; 5 [Does not fit at all]; 6 [Don't know]
+
+""I am impulsive and tend to buy things even when I can't really afford them""
+""I am very organised when it comes to managing my money day to day""
+ ""I always pay my bills in time""
+""I know how to plan my spending against my income""
+""I am more of a saver than a spender""
+""I prefer to buy things on credit rather than wait and save up""
+""I would rather cut back than put everyday spending on a credit card I couldn't repay in full each month""
+""I prefer to spend any money I have rather than save it for unexpected expenses or an income fall""
+",Planning and budgeting
+,CB3.39,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,General,More objective,,"Do you do any of the following for yourself or your household?
+
+Make a plan to manage your income and expenses; 
+Keep a note of your spending; 
+Keep money for bills separate from day-to-day spending money; 
+Make a note of upcoming bills  to make sure you don't miss them; 
+Use a banking app or money management tool to keep track of your outgoings; 
+Arrange automatic payments for regular outgoings",Planning and budgeting
+,CB3.40,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,General,Mixed,,"And if you, personally, faced a major expense today – equivalent to your own monthly income – would you be able to pay it without borrowing the money or asking family or friends to help? [Add if necessary, if you do not currently have an income, please think about an unexpected expense equivalent to the amount of money you typically spend in a month.]",Income or expense shock
+,CB3.41,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,General,More objective,,"Sometimes people find that their income does not quite cover their living expenses. In the last 12 months, has this happened to you, personally?
+Yes; No; Don't Know; Not applicable (I don't have any personal income); Refused",Cash flow
+,CB3.42,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,General,More objective,,"What did you do to make ends meet the last time this happened?         
+
+Draw money out of savings or transfer savings into <current> account; 
+Cut back on spending, spend less, do without, delay a planned expense; 
+Sell something that you own; 
+Work overtime, take an extra job, earn extra money; 
+Claim support from the government; 
+Ask for help from family, friends or the community;
+ Borrow from family, friends or the community; 
+Borrow from employer/salary advance; 
+Pawn something that you own; 
+Take a loan from your savings and loans clubs or other <informal savings club>; 
+Take money out of a flexible mortgage account; 
+Apply for loan/withdrawal on pension fund; 
+Use authorised, arranged overdraft or line of credit; 
+Use credit card for a cash advance or to pay bills/buy food; 
+Take out a personal loan from a financial service provider (including bank, credit union or _5_1 microfinance); 
+Take out a payday loan; 
+Take out a loan from an informal provider/moneylender; 
+Take an SMS loan; 
+Take an online <instant cash> loan; 
+Use unauthorised overdraft; 
+Pay bills late; miss payments; 
+Other; Don't know; Refused",Cash flow
+,CB3.43,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,General,Mixed,,"If you lost your main source of income, how long could you continue to cover your living expenses, without borrowing any money or moving house?	
+
+Less than a week; 
+At least a week, but not one month; 
+At least one month, but not three months; 
+At least three months, but not six months; 
+Six months or more; 
+Don't know; 
+Refused",Income or expense shock
+,CB3.44,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,General,Mixed,,"I am now going to read out some statements. I would like to know how much you agree or disagree with each of these statements (as it relates to you): ""I find it more satisfying to spend money than to save it for the long term""
+
+1 [Completely agree]; 2; 3; 4; 5 [Completely disagree]; Don't know; Not relevant; Refused",Financial attitudes
+,CB3.45,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,General,More subjective,,"I am now going to read out some statements. I would like to know how much you agree or disagree with each of these statements (as it relates to you): ""Money is there to be spent""
+
+1 [Completely agree]; 2; 3; 4; 5 [Completely disagree]; Don't know; Not relevant; Refused",Financial attitudes
+,CB3.46,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,General,More subjective,,"I am now going to read out some statements. I would like to know how much you agree or disagree with each of these statements (as it relates to you): ""I am satisfied with my present financial situation""
+
+1 [Completely agree]; 2; 3; 4; 5 [Completely disagree]; Don't know; Not relevant; Refused",Subjective evaluation of financail health
+,CB3.47,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,General,More subjective,,"I am now going to read out some statements. I would like to know how much you agree or disagree with each of these statements (as it relates to you): ""I keep a close personal watch on my financial affairs""
+
+1 [Completely agree]; 2; 3; 4; 5 [Completely disagree]; Don't know; Not relevant; Refused",Planning and budgeting
+,CB3.48,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,General,More subjective,,"I am now going to read out some statements. I would like to know how much you agree or disagree with each of these statements (as it relates to you): ""My financial situation limits my ability to do the things that are important to me""
+
+1 [Completely agree]; 2; 3; 4; 5 [Completely disagree]; Don't know; Not relevant; Refused",Subjective evaluation of financail health
+,CB3.49,,European Union: Survey of Income and Living Conditions (Multiple countries),Strong,General,More subjective,,"A household may have different sources of income and more than one household member may contribute to it. Thinking of your household's total income, is your household able to make ends meet, namely, to pay for its usual necessary expenses?
+
+With great difficult; With difficulty; With some difficulty; Fairly easily; Easily; Very easily",Income adequacy
+,CB3.50,,European Union: Survey of Income and Living Conditions (Multiple countries),Moderate,General,More subjective,,"In your opinion, what is the very lowest net monthly income that your household would have to have in order to make ends meet, that is to pay its usual necessary expenses?",Income adequacy
+,CB3.51,,European Union: Survey of Income and Living Conditions (Multiple countries),Strong,Housing,More subjective,,"Please consider your total housing costs including mortgage repayment (instalment and interest) or rent, insurance and service charges (sewage removal, refuse removal, regular maintenance, repairs and other charges). To what extent are these costs a financial burden to you?
+
+A heavy burden, A slight burden; No burden at all",Housing costs
+,CB3.52,,European Union: Survey of Income and Living Conditions (Multiple countries),Strong,Credit,More subjective,,"Do you or anyone in your household have to repay debts from any credit card, hire purchase or other loans (that is, excluding mortgage repayments or other loans connected with the purchase of main dwelling)? If yes, to what extent is the repayment of such loans a financial burden for your household?
+
+A heavy burden, A slight burden; No burden at all",Debt financing costs
+,CB3.53,,European Union: Survey of Income and Living Conditions (Multiple countries),Strong,Housing,More objective,,"In the past twelve months, has the household been in arrears, i.e. has been unable to pay on time due to financial difficulties for: (a) rent, (b) mortgage repayment for the main dwelling?
+
+Yes, once; Yes, twice or more; No",Housing costs
+,CB3.54,,European Union: Survey of Income and Living Conditions (Multiple countries),Strong,Housing,More objective,,"In the past twelve months, has the household been in arrears, i.e. has been unable to pay the utility bills (heating, electricity, gas, water, etc.) of the main dwelling on time due to financial difficulties?
+
+Yes, once; Yes, twice or more; No",Utility bills 
+,CB3.55,,European Union: Survey of Income and Living Conditions (Multiple countries),Strong,Credit,More objective,,"In the past twelve months, has the household been in arrears on hire purchase instalments or other loan payments, i.e. has been unable to pay these on time due to financial difficulties?
+
+Yes, once; Yes, twice or more; No",Debt financing costs
+,CB3.56,,European Union: Survey of Income and Living Conditions (Multiple countries),Weak or not aligned,General,Mixed,,"Can your household afford a meal with meat, chicken, fish (or vegetarian equivalent) every second day?
+
+Yes, No",
+,CB3.57,,MetLife Foundation: Global Financial Health Study (Multiple countries),Strong,General,More subjective,,"When you spend money on something you don’t need, do you usually regret the decision later?
+
+Yes, No",Discretionary spending
+,CB3.58,,MetLife Foundation: Global Financial Health Study (Multiple countries),Strong,Payments,More subjective,,"Do you avoid thinking about how you are going to pay for things in the future?
+
+Yes, No",Financial attitudes
+,CB3.59,,World Bank: Global Findex (Multiple countries),Strong,Payments,More subjective,,"How worried are you right now about each of the following? Are you very worried, somewhat worried, or not worried at all at the present time about …? ""Not having enough money to pay for monthly bills and expenses.""",Financial worrying
+,CB3.60,,World Bank: Global Findex (Multiple countries),Strong,Payments,More subjective,,"How worried are you right now about each of the following? Are you very worried, somewhat worried, or not worried at all at the present time about …? ""Not being able to pay school fees or fees for education.""",Financial worrying

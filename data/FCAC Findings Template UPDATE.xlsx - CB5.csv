@@ -1,0 +1,95 @@
+,,,,,,,,
+Category,Consumer Building Blocks,,,,,,,
+,,,,,,,,
+CB5,"Managing savings. The aim of this building block is to enable more Canadians to engage in savings practices that will help them weather financial shocks and unexpected expenses, as well as achieve their financial goals. ",,,,,,,
+,1. Comments/observations on target outcome,,"This is the only place resilience, i.e.  ability to weather shocks, is directly highlighted in the TOs and CBBs. Given that resilience is the national strategy's overall goal, we have placed most questions on resilience on a separate worksheet. Here we only include questions that directly mention savings.  ",,,,,
+,2. Assessment of coverage of target outcome internationally,,😐,"Observations: Savings practices are relatively well-queried. Questions cover attitudes, habits, and actions. Questions about attitudes can yield insights, but need support from habit and action questions to yield outcome measures. Although investments are closely related, only a few questions ask about investments, possilby because investing is seen as a) for high income segments and/or b) related to a separate part of the financial system (different institutions, different regulators) and therefore is not explored in general financial capability surveys. ",,,,
+,3. Best examples,,1,"Thinking about the total income of your household approximately how many month's income do you have in savings?
+More than 12 months; Between 6-12 months; Between 3-6 months; Between 1-3 months; 0-1 months; Don't know",,,,
+,,,2,"Overall, on a scale of 1 to 5 where 1 is very confident, and 5 is not at all confident; how confident are you that you have done a good job of making financial plans for your retirement?
+1 Very confident; 2, 3, 4, 5 not at all confident; No retirement plan; Don't know; Refused",,,,
+,,,3,"What actions have you (personally) taken to meet your most important goal…
+Prepared a plan of action; Increased your credit card or loan repayments; Saved or invested money; Looked for new/different/additional source of income; Identified a source of credit; Cut-back on spending; 
+Something else _______; Nothing; Don't know; Refused to answer ",,,,
+,,,4,"In the past 12 months have you been [personally] saving money in any of the following ways, whether or not you still have the money? Please don't take into account any money paid into a pension, but think about all kinds of savings, such as building up a rainy-day fund or putting money aside for a special occasion.
+Saving cash at home or in your wallet; 
+Paying money into a <savings/deposit> account; 
+Giving money to family to save on your behalf; 
+Saving in <an informal savings club>; 
+Buying bonds or time deposits; 
+Investing in crypto-assets or ICOs; 
+Investing in stocks and shares; 
+Saving or investing in some other way, other than a pension",,,,
+,,,5,"Thinking about your household’s longer-term financial goals... How confident are you that your household is currently doing what is needed to meet your longer-term goals?
+Very confident; Moderately confident; Somewhat confident; Slightly confident; Not at all confident",,,,
+,4. Recommendations/ Proposed Indicators,,"Most important questions are whether consumer has an emergency financial buffer, generally targeted to be at least 3 months of living expenses, and whether consumer is on track to secure their finances in old age. Questions on saving for other large goals, such as housing, education, making a major purchase or starting a business, could also be asked.",,,,,
+,5. All documented measures,,Total,18,,,,
+,Flag,Source,Alignment to target,Sector,Objective vs. Subjective,Relates to consumer building block,Indicator/Question,Topic and Comments
+,⭐️,Financial Health Network: Pulse (United States),Strong,General,More subjective,,"Thinking about your household’s longer-term financial goals... How confident are you that your household is currently doing what is needed to meet your longer-term goals?
+
+Very confident; 
+Moderately confident; 
+Somewhat confident; 
+Slightly confident; 
+Not at all confident",Financial goals
+,,Consumer Financial Protection Bureau: Financial Well-Being Survey (United States),Moderate,General,More subjective,,"How well does this statement describe you or your situation? ""Because of my money situation, I feel like I will never have the things I want in life""
+
+Describes me completely; Describes me very well; Describes me somewhat; Describes me very little; Does not describe me at all",Financial situation  (Part of CFPB 10-item financial well being index)
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,,More subjective,,"How well do these statements describe you personally: ""I try to save money to have something to fall back on in the future.""
+1 Fits very well; 2 Fits fairly well; 3 Fits neither well nor badly; 4 Does not fit well; 5 Does not fit at all; 6 Don't know",Attitude toward saving
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,,More subjective,,"How well do these statements describe you personally: ""I try to save some money regularly even it if it is only a small amount.""
+1 Fits very well; 2 Fits fairly well; 3 Fits neither well nor badly; 4 Does not fit well; 5 Does not fit at all; 6 Don't know",Attitude toward saving
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,,More subjective,,"How well do these statements describe you personally: ""I always make sure I have money saved for bad times.""
+1 Fits very well; 2 Fits fairly well; 3 Fits neither well nor badly; 4 Does not fit well; 5 Does not fit at all; 6 Don't know",Attitude toward saving
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,,More subjective,,"How well do these statements describe you personally: ""I find it more satisfying to spend money than to save it.""
+1 Fits very well; 2 Fits fairly well; 3 Fits neither well nor badly; 4 Does not fit well; 5 Does not fit at all; 6 Don't know",Attitude toward saving
+,⭐️,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,,More objective,,"Thinking about the total income of your household approximately how many month's income do you have in savings?
+
+More than 12 months; 6-12 months; 3-6 months; 1-3 months; 0-1 months; Don't know",Adequacy of savings 
+,⭐️,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,,More objective,,"In the past 12 months have you been [personally] saving money in any of the following ways, whether or not you still have the money? Please don't take into account any money paid into a pension, but think about all kinds of savings, such as building up a rainy-day fund or putting money aside for a special occasion.
+
+Saving cash at home or in your wallet; 
+Paying money into a <savings/deposit> account; 
+Giving money to family to save on your behalf; 
+Saving in <an informal savings club>; 
+Buying bonds or time deposits; 
+Investing in crypto-assets or ICOs; 
+Investing in stocks and shares; 
+Saving or investing in some other way, other than a pension",Modes of saving
+,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,,Mixed,,"Some people set themselves financial goals, such as paying university fees, buying a car or becoming debt free. Do you (personally, or with your partner) have any financial goals?
+
+Yes; No; Don't Know; Refused",Long term goals. Would be helpful to follow with a question specifying the goals 
+,⭐️,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,,More objective,,"What actions have you (personally) taken to meet your most important goal…
+
+Prepared a plan of action; 
+Increased your credit card or loan repayments; 
+Saved or invested money; 
+Looked for new/different/additional source of income; 
+Identified a source of credit; 
+Cut-back on spending; 
+Something else _______; Nothing; Don't know; Refused to answer ",Long term goals
+,⭐️,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,,More subjective,,"Overall, on a scale of 1 to 5 where 1 is very confident, and 5 is not at all confident; how confident are you that you have done a good job of making financial plans for your retirement?
+
+1 Very confident; 2, 3, 4, 5 not at all confident; No retirement plan; Don't know; Refused",Old age planning
+,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,,Mixed,,"How will you - or do you - fund your retirment?
+
+Draw a government pension/ old-age benefit; 
+Draw an occupational or workplace pension plan; 
+Draw a private pension plan; 
+Sell your financial assets (such as: stocks, bonds or mutual funds); 
+Sell your non-financial assets (such as a car, property, art, jewels, antiques, etc.); 
+From income generated by your financial or non-financial assets _6 (such as dividends or rental income); 
+Rely on a spouse or partner to support you; Rely on your children or other family members to support you; 
+Draw on your savings; 
+Continue to work; From the revenues of a business that you own; Something else [agency may wish to record what]; Do not know to the entire question; Refused to answer",Money sources for old age
+,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,,More subjective,,"How much do you agree or disagree with this statement (as it relates to you): ""I am prepared to risk some of my own money when saving or making an investment""
+1 Completely agree; 2; 3; 4; 5 Completely disagree; Don't know; Not relevant; Refused",Attitude to risk and investment
+,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Moderate,,More subjective,,"How much do you agree or disagree with each of this statement (as it relates to you): ""I set long term financial goals and strive to achieve them""
+1 Completely agree; 2; 3; 4; 5 Completely disagree; Don't know; Not relevant; Refused",Long term goals
+,,European Union: Survey of Income and Living Conditions (Multiple countries),Strong,,More objective,,"Can your enitre household afford to go for a week's annual holiday, away from home, including stays in a second dwelling or with friends/relatives?
+Yes, No",Goals: vacation/holiday
+,,MetLife: Global Financial Health Study (Multiple countries),Strong,,Mixed,,"Have you tried to save money in the past, but have not been able to? 
+Yes, No",Ability to save
+,,MetLife: Global Financial Health Study (Multiple countries),Moderate,,More subjective,,"Do you enjoy planning what you are going to do with your money in the future?
+Yes, No",Attitude to financial planning
+,,World Bank: Global Findex (Multiple countries),Strong,,More subjective,,"How worried are you right now about not having enough money for your old age? Are you very worried, somewhat worried, or not worried at all at the present time.",Worries over money for old age

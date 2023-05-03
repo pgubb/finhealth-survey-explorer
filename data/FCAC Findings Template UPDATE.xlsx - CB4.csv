@@ -1,0 +1,62 @@
+,,,,,,,,
+Category,Consumer Building Blocks,,,,,,,
+,,,,,,,,
+CB4,Managing debt. The aim of this building block is to enable more Canadians to feel in control of their overall debt situation.,,,,,,,
+,1. Comments/observations on target outcome,,"This CBB is phrased in a way that emphasizes the subjective aspect of debt burden, that is, whether a person can manage their debts without undue stress. To measure this, a combination of objective questions focused on the level of indebtedness would be combined with questions on the perceived burden arising from debt. Questions on incidence of debt payment interruptions would be especially useful.",,,,,
+,2. Assessment of coverage of target outcome internationally,,😐,Observations: Questions found are very similar across surveys. Most focus on the perception and consequences of debt stress. Some ask about borrowing practices. Few questions query actual levels of debt.,,,,
+,3. Best examples,,1,"Thinking about all of your household’s current debts... As of today, which of the following statements describes how manageable your household debt is?
+Have a manageable amount of debt; 
+Have a bit more debt than is manageable; 
+Have far more debt than is manageable; 
+Do not have any debt",,,,
+,,,2,"How often does your household/ you use a credit card, overdraft or borrow money to buy food or to pay expenses because you have run short of money? 1 Very often; 2 Often; 3 Now and then; 4 Seldom; 5 Never; 6 Don't know",,,,
+,,,3,"How much stress does the total debt you (and your spouse/partner) are carrying cause to you?
+A great deal of stress; Quite a bit; Some stress; Not very much; No stress at all",,,,
+,,,4,"How much of a problem, if any, has your debt caused for your family life? Job performance? Health?
+An extreme problem; A large problem; A medium problem; No problem at all",,,,
+,,,5,"How would you rate your credit score? Your credit score is a number that tells lenders how risky or safe you are as a borrower.
+Excellent; Very good; Good; Fair; Poor; Don't know",,,,
+,4. Recommendations/ Proposed Indicators,,"Asking the 5 questions shown here (actually 7, because 4th question is a compound) would provide enough evidence to place individuals on a spectrum from positive debt managment to extreme debt stress. Objective data such as trends in a person's credit score and their ratio of debt service to income, would also be important.",,,,,
+,5. All documented measures,,Total,17,,,,
+,Flag,Source,Alignment to target,Sector,Objective vs. Subjective,Relates to consumer building block,Indicator/Question,Topics and Comments
+,⭐️,Financial Health Network: Pulse Survey (United States),Strong,Credit,More subjective,,"Thinking about all of your household’s current debts... As of today, which of the following statements describes how manageable your household debt is?
+
+Have a manageable amount of debt; 
+Have a bit more debt than is manageable; 
+Have far more debt than is manageable; 
+Do not have any debt",Debt level
+,⭐️,Financial Health Network: Pulse Survey (United States),Strong,Credit,Mixed,,"How would you rate your credit score? Your credit score is a number that tells lenders how risky or safe you are as a borrower.
+Excellent; Very good; Good; Fair; Poor; Don't know",Credit score (respondents may not know their credit score)
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Moderate,Credit,More objective,,"Does your household/do you have loans?
+Yes; No; Don't know",Existing debt
+,⭐️,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,Credit,Mixed,B3. Expenses,"How often does your household/you use a credit card, overdraft or borrow money to buy food or to pay expenses because you have run short of money?
+1 Very often; 2 Often; 3 Now and then; 4 Seldom; 5 Never; 6 Don't know",Borrowing for consumption
+,,"SIFO, Consumption Research Norway: Financial Wellbeing Survey (Norway)",Strong,,More objective,,"How often does your household/you borrow money to pay off debts?
+1 Very often; 2 Often; 3 Now and then; 4 Seldom; 5 Never; 6 Don't know",Borrowing to pay debts
+,,"Ohio State University, Associated Press: Debt Stress Index (United States)",Strong,,More subjective,,"Overall, how often do you worry about the total amount you (and your spouse/partner) owe in overall debt?
+
+All of the time; Most of the time; Some of the time; Hardly ever; Not at all",Debt stress
+,⭐️,"Ohio State University, Associated Press: Debt Stress Index (United States)",Strong,,More subjective,,"How much stress does the total debt you (and your spouse/partner) are carrying cause to you?
+A great deal of stress; Quite a bit; Some stress; Not very much; No stress at all",Debt stress
+,,"Ohio State University, Associated Press: Debt Stress Index (United States)",Strong,,More subjective,,"Now, thinking ahead over the next five years, how much of a problem, if any, will the total debt you (and your spouse/partner) have taken on be for you?
+
+An extreme problem; A large problem; A medium problem; No problem at all",Perceived burden of debt
+,,"Ohio State University, Associated Press: Debt Stress Index (United States)",Strong,,More subjective,,"How concerned are you that you (and your spouse/partner) will never be able to pay off these debts?
+
+Very much concerned; Quite concerned; Somewhat concerned; Not very concerned; Not at all concerned",Ability to pay off debt
+,⭐️,"Ohio State University, Associated Press: Debt Stress Index (United States)",Strong,,More subjective,,"How much of a problem, if any, has your debt caused for your family life?
+An extreme problem; A large problem; A medium problem; No problem at all",Debt stress and family life
+,⭐️,"Ohio State University, Associated Press: Debt Stress Index (United States)",Strong,,More subjective,,"How much of a problem, if any, has your debt caused for your job performance?
+An extreme problem; A large problem; A medium problem; No problem at all",Debt stress and job performance
+,⭐️,"Ohio State University, Associated Press: Debt Stress Index (United States)",Strong,,More subjective,,"To what extent has your debt affected your health?
+Very much affected; Quite affected; Somewhat affected; Not much affected; Not at all affecterd",Debt stress and health
+,,OECD/INFE: Survey of adult financial literacy (Multiple countries),Strong,,More subjective,,"How much do you agree or disagree with this statement (as it relates to you): ""I have too much debt right now""
+1 Completely agree; 2; 3; 4; 5 Completely disagree; Don't know; Not relevant; Refused",Perceived burden of debt
+,,MetLife Foundation: Global Financial Health Study (Multiple countries),Moderate,,More objective,,"Do you, personally, owe any money to a financial institution, such as a bank or a credit card company? This could be money you owe for things like a loan or other types of debt.
+
+Yes, No",Debt to financial service providers
+,,MetLife Foundation: Global Financial Health Study (Multiple countries),Moderate,,More objective,,"Do you, personally, owe money to another person?
+Yes, No",Debt to individuals
+,,MetLife Foundation: Global Financial Health Study (Multiple countries),Strong,,More subjective,,"(If respondent owes money either to a financial institution or a person and is actively paying the debt back) Does making payments to pay back the money you owe make it very difficult, somewhat difficult, or not at all difficult for you to pay for the other things you need?",Perceived burden of debt
+,,MetLife Foundation: Global Financial Health Study (Multiple countries),Strong,,More subjective,,"Do you think you will ever be able to pay back all the money you owe? 
+Yes, No",Ability to pay off debt
